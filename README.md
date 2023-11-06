@@ -103,3 +103,5 @@ serveIceCream(iceCreamFlavor); // Don't forget to call the function!
 ```
 
 See how the comments give context? Now, it's your turn. Have fun, and happy coding! 🎉🍦
+
+[Back to the Wiki](https://github.com/nayaba/pw-wiki)
