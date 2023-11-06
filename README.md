@@ -1,6 +1,6 @@
 ![syntax](https://github.com/nayaba/pw-lesson-03/assets/9198401/2241ee17-9c3d-43c3-a372-0e8cfac26b79)
 
-Hey there, future JavaScripter! Ready to dive into the nuts and bolts of JavaScript? Let's chat about syntax and comments—the grammar of coding.
+Hey there, future JavaScripter! Ready to dive into the nuts and bolts of JavaScript? Let's chat about syntax and comments—the grammar and sticky notes of coding.
 
 ### What's Syntax?
 
