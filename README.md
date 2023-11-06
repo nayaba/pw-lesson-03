@@ -1,3 +1,5 @@
+![js-love](https://github.com/nayaba/pw-lesson-03/assets/9198401/ac50a91a-0712-45d7-9dce-0026b9616e86)
+
 Hey there, future JavaScripter! Ready to dive into the nuts and bolts of JavaScript? Let's chat about syntax and comments—the grammar and sticky notes of coding.
 
 ### What's Syntax?
@@ -5,6 +7,7 @@ Hey there, future JavaScripter! Ready to dive into the nuts and bolts of JavaScr
 In human language, syntax is the order of words in a sentence that makes the sentence make sense. "The cat sat on the mat" makes sense because it follows English syntax. But "Mat the on cat sat the" sounds like Yoda tried a bit too hard.
 
 In JavaScript, syntax is pretty much the same deal. It's a set of rules for how to write statements that the computer can understand. Get it right, and the computer does what you want. Get it wrong, and it's like, "I have no idea what you're talking about."
+
 
 ### The Basics of JavaScript Syntax
 
@@ -86,6 +89,8 @@ let tea = 'green';
 - **Keep It Up-to-Date**: Outdated comments are worse than no comments. If you change the code, change the comments.
 
 ### Practice Time!
+
+![8bit-ice-cream](https://github.com/nayaba/pw-lesson-03/assets/9198401/1950d029-084d-46b9-891f-34e4f85fb0bf)
 
 Go on, open up your text editor or a CodePen, and try writing some JavaScript with plenty of comments. Define variables, make a function, and leave yourself notes on what each part does.
 
