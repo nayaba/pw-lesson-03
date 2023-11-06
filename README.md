@@ -55,6 +55,8 @@ let myvariable = 20; // Not the same as myVariable.
 
 ### Comments: Your Code's Sidekick
 
+<img src="https://github.com/nayaba/pw-lesson-03/assets/9198401/58f118ef-1f26-4653-a5d2-6a430073b5cd" height="300 px" width="auto">
+
 Comments are notes to yourself or others that explain what your code is doing. Think of them as the commentary track on a DVD. They don't affect the code's operation; they're just there for the humans.
 
 There are two types of comments in JavaScript:
