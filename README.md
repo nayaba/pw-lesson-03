@@ -90,8 +90,6 @@ let tea = 'green';
 
 ### Practice Time!
 
-![8bit-ice-cream](https://github.com/nayaba/pw-lesson-03/assets/9198401/1950d029-084d-46b9-891f-34e4f85fb0bf)
-
 Go on, open up your text editor or a CodePen, and try writing some JavaScript with plenty of comments. Define variables, make a function, and leave yourself notes on what each part does.
 
 Here's a tiny challenge for you:
