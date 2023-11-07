@@ -1,8 +1,6 @@
 ![syntax](https://github.com/nayaba/pw-lesson-03/assets/9198401/2241ee17-9c3d-43c3-a372-0e8cfac26b79)
 
-Hey there, future JavaScripter! Ready to dive into the nuts and bolts of JavaScript? Let's chat about syntax and comments—the grammar and sticky notes of coding.
-
-### What's Syntax?
+# What's Syntax?
 
 In human language, syntax is the order of words in a sentence that makes the sentence make sense. "The cat sat on the mat" makes sense because it follows English syntax. But "Mat the on cat sat the" sounds like Yoda tried a bit too hard.
 
